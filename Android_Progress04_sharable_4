@@ -1,0 +1,19 @@
+http://developer.android.com/reference/android/R.styleable.html     xml attributes compilation
+
+idunnolol.com/android/drawables.html    drawable reference
+
+http://stackoverflow.com/questions/3294590/set-the-absolute-position-of-a-view   placing views at exact location using activity.
+
+http://developer.android.com/guide/topics/resources/available-resources.html   resource types in android: (
+    Animation
+    Color State List
+    Drawable
+    Layout
+    Menu
+    String
+    Style
+    More Types
+)
+
+I also have a very beautiful pdf on this.
+
