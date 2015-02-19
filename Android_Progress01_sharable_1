@@ -1,0 +1,29 @@
+A> 
+
+what is material design in google's perspective:
+http://www.google.com/design/spec/material-design/introduction.html#introduction-goals
+
+B>
+
+material design is possible with polymer project: but can be run only on webview
+pros:
+1. all platforms cause it only needs web rendering engine.
+
+cons:
+2. cons: not cool because we want to do some java coding.
+
+note: but we may have to look into it.
+
+polymer project look here
+https://www.polymer-project.org/docs/elements/material.html#application-layout
+
+C>
+we need to pay attention to this:
+http://developer.android.com/design/patterns/new.html
+
+D> material design and android
+http://toastdroid.com/2014/07/31/material-design-android/
+
+E>
+open source project: developer: google guy i guess
+https://github.com/romainguy/google-io-2014
