@@ -1,0 +1,38 @@
+animation:
+
+two kinds of are there:
+
+frame animation: series of images set duration and set resource on an image:
+
+tween animation:  translation, fading, scaling,
+
+everyone has a special way of defininig them in xml file   different tags used. 
+then we load animation in activity and assign the animation to the desired view object. and voilla.
+
+:
+lastly <set> binds different kinds of animation together.
+
+one more thing> interpolator used for accelaration decelaration used for ball bouncing.
+
+
+links:
+
+a live example of tween animation
+
+http://code.tutsplus.com/tutorials/android-sdk-creating-a-simple-tween-animation--mobile-14898
+
+
+/>>............................<<\
+
+read about other resources.
+gradient
+how to make circle , square shapes using xml 
+how to form gradient.
+styles to views
+
+some important links:
+http://www.grokkingandroid.com/migrating-actionbarsherlock-actionbarcompat/
+http://slidenerd.com/2014/09/01/3-making-buttons-with-rounded-corners-custom-drawables-in-android/
+
+
+
